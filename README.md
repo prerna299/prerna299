@@ -6,7 +6,10 @@ Aspiring **Full-Stack Developer** | **Web & AI Enthusiast**
 
 ## 👩‍💻 About Me
 
-I'm a computer science student with a strong interest in technology who loves learning and building meaningful and user-centric applications.
+- 🎓 Computer Science Student passionate about technology and development  
+- 🌱 Learning **Java, Backend Development, and APIs**
+- 💡 Interested in **Web Development & Software Engineering**
+- 🛠 Love turning ideas into real - meaningful projects
 
 - **Linkedin :** www.linkedin.com/in/prerna-singh-7b40792a2
 - **Leetcode :** https://leetcode.com/u/prernasingh_29/
@@ -16,13 +19,13 @@ I'm a computer science student with a strong interest in technology who loves le
 
 ## 🛠 Skills
 
-### **Programming Language :** 
+### 💻 **Programming Language :** 
 Java , Python , Flutter
-### **Frontend :** 
+### 🌐 **Frontend :** 
 HTML , CSS , Javascript , ReactJS
-### **Backend :** 
+### ⚙️ **Backend :** 
 Node.js , Express.js , MongoDB , SQL
-### **Tools and Technologies :** 
+### 🧰 **Tools and Technologies :** 
 Git , GitHub , Canva , Figma , Excel , AWS
 
 ---
@@ -36,8 +39,6 @@ Git , GitHub , Canva , Figma , Excel , AWS
 ---
 
 **Thanks for visiting my profile!**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prerna299&show_icons=true)
 
 <!--
 **prerna299/prerna299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
