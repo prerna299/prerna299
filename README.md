@@ -36,6 +36,9 @@ Git , GitHub , Canva , Figma , Excel , AWS
 ---
 
 **Thanks for visiting my profile!**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prerna299&show_icons=true)
+
 <!--
 **prerna299/prerna299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
