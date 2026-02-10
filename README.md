@@ -1,6 +1,6 @@
 ## Hey, I'm Prerna
 
-Aspiring **Full-Stack Developer** | **Web & AI Enthusiast**
+**Full-Stack Developer** | **Web & AI Enthusiast**
 
 ---
 
