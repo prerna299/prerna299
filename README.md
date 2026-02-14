@@ -20,7 +20,7 @@
 ## 🛠 Skills
 
 ### 💻 **Programming Language :** 
-Java , Python , 
+Java , Python , Flutter
 ### 🌐 **Frontend :** 
 HTML , CSS , Javascript , ReactJS
 ### ⚙️ **Backend :** 
