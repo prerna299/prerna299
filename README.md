@@ -9,7 +9,7 @@
 - 🎓 Computer Science Student passionate about technology and development  
 - 🌱 Learning **Java, Backend Development, and APIs**
 - 💡 Interested in **Web Development & Software Engineering**
-- 🛠 Love turning ideas into real - meaningful projects
+- 🛠 Love turning ideas into real & meaningful projects
 
 - **Linkedin :** www.linkedin.com/in/prerna-singh-7b40792a2
 - **Leetcode :** https://leetcode.com/u/prernasingh_29/
