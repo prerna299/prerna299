@@ -40,6 +40,8 @@ Git , GitHub , Canva , Figma , Excel , AWS
 
 **Thanks for visiting my profile!**
 
+---
+
 <!--
 **prerna299/prerna299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
