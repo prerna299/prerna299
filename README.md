@@ -1,6 +1,6 @@
 ## Hey, I'm Prerna
 
-**Full-Stack Developer** | **Web & AI Enthusiast**
+**Machine Learning Developer** | **Web & AI Enthusiast**
 
 ---
 
@@ -20,9 +20,9 @@
 ## 🛠 Skills
 
 ### 💻 **Programming Language :** 
-Java , Python , Flutter
+C++ , Python , Flutter
 ### 🌐 **Frontend :** 
-HTML , CSS , Javascript , ReactJS
+HTML , CSS , Javascript
 ### ⚙️ **Backend :** 
 Node.js , Express.js , MongoDB , SQL
 ### 🧰 **Tools and Technologies :** 
