@@ -1,4 +1,4 @@
-# Hi, I'm Prerna
+# Hi, I'm Prerna 
 
 ### Aspiring Machine Learning Engineer | AI/ML Enthusiast | Software Developer
 
@@ -14,14 +14,13 @@
 
 I'm a **Computer Science Engineering student** interested in building intelligent, data-driven, and practical software solutions.
 
-My current focus is on **Machine Learning and Artificial Intelligence**, while leveraging my background in **full-stack and backend development** to turn models and ideas into usable applications.
+My current focus is on **Machine Learning and Artificial Intelligence**, while leveraging my background in **full-stack development** to turn models and ideas into usable applications.
 
 * 🎓 Pursuing **B.Tech in Computer Science & Engineering**
 * 🤖 Exploring **Machine Learning, Deep Learning, NLP & Generative AI**
 * 🐍 Working primarily with **Python** for ML and data-driven applications
 * 📊 Interested in **Data Science, EDA, model development & evaluation**
 * 🧠 Exploring **RAG systems and AI-powered applications**
-* 🌐 Experienced with **Full-Stack & Backend Development**
 * 🚀 Passionate about building **real-world, end-to-end projects**
 * 💡 Always learning, experimenting, and improving
 
@@ -130,4 +129,83 @@ An AI assistant that retrieves relevant information from **PDF documents and web
 
 A cloud-native platform architecture designed for processing and analyzing **multi-modal healthcare data**, including medical images and continuous clinical signals.
 
-**Ar**
+**Architecture**
+
+```text
+Clinical Data Sources
+        ↓
+   FastAPI Gateway
+        ↓
+     Apache Kafka
+        ↓
+Spark / Structured Streaming
+        ↓
+   MinIO Data Lake
+        ↓
+   AI / Analytics
+        ↓
+Intelligent Healthcare Insights
+```
+
+The platform focuses on scalable data processing, real-time streaming, AI inference, and decoupled storage and compute.
+
+---
+
+## 📚 What I'm Learning
+
+* Machine Learning & Model Optimization
+* Deep Learning
+* Natural Language Processing
+* Generative AI & LLM Applications
+* Retrieval-Augmented Generation
+* Data Engineering for AI Systems
+* Backend APIs & System Design
+* Data Structures & Algorithms
+
+---
+
+## 💻 Problem Solving
+
+<p>
+  <a href="https://leetcode.com/u/prernasingh_29/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/prerna29">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna299&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna299&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/prerna-singh-7b40792a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/prerna299">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:prernasingh521@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and turning ideas into intelligent solutions.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
