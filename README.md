@@ -179,13 +179,10 @@ The platform focuses on scalable data processing, real-time streaming, AI infere
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prerna299&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna299&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prerna299&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna299&layout=compact&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ## 🌐 Let's Connect
